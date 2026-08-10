@@ -188,7 +188,6 @@ analysis and interactive filtering.
 
 ### 📐 Simplified Data Model
 
-```
                 ┌───────────────────────┐
                 │   DimConstituency     │
                 │                       │
@@ -212,8 +211,6 @@ analysis and interactive filtering.
     │ Winner           │       │ Winning Margin   │
     │ Votes            │       │ Constituency     │
     └──────────────────┘       └──────────────────┘
-```
-
 ---
 
 # 🧮 **DAX & Measures**
