@@ -223,26 +223,23 @@ measures and KPIs for analyzing election data.
 
 ### 📌 **Key DAX Calculations**
 
-#### Total Votes
+#### 🗳️ Total Votes
 
-```DAX
-Total Votes =
-SUM(FactElection[Votes])
-```
+**Formula:**
 
-#### Total Constituencies
+`Total Votes = SUM(FactElection[Votes])`
 
-```DAX
-Total Constituencies =
-DISTINCTCOUNT(DimConstituency[Constituency])
-```
+#### 🏛️ Total Constituencies
 
-#### Total Candidates
+**Formula:**
 
-```DAX
-Total Candidates =
-DISTINCTCOUNT(FactElection[Candidate])
-```
+`Total Constituencies = DISTINCTCOUNT(DimConstituency[Constituency])`
+
+#### 👤 Total Candidates
+
+**Formula:**
+
+`Total Candidates = DISTINCTCOUNT(FactElection[Candidate])`
 
 ### 🎯 **DAX Used For**
 
