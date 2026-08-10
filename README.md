@@ -1,4 +1,4 @@
-# 🇮🇳 Tamil Nadu Elections 2021–2026
+# Tamil Nadu Elections 2021–2026
 ## 📊 **Power BI Data Analytics Dashboard**
 
 <p align="center">
@@ -184,6 +184,8 @@ analysis and interactive filtering.
 - 🔹 Data Model Optimization
 - 🔹 Star Schema Concepts
 
+  ---
+
 ### 📐 Simplified Data Model
 
 ```text
@@ -220,7 +222,7 @@ analysis and interactive filtering.
 **DAX (Data Analysis Expressions)** was used to create calculated
 measures and KPIs for analyzing election data.
 
-### 📌 Key DAX Calculations
+### 📌**Key DAX Calculations**
 
 #### Total Votes
 
@@ -234,7 +236,9 @@ DISTINCTCOUNT(DimConstituency[Constituency])
 Total Candidates =
 DISTINCTCOUNT(FactElection[Candidate])
 
-### 🎯 DAX Used For
+---
+
+### 🎯 **DAX Used For**
 
 - 📊 **KPI Calculations**
 - 🗳️ **Vote Analysis**
@@ -246,7 +250,7 @@ DISTINCTCOUNT(FactElection[Candidate])
 
 ---
 
-# 📊 Dashboard Features
+# 📊 **Dashboard Features**
 
 ### 🎯 Interactive Visualizations
 
@@ -285,7 +289,7 @@ of the election dataset.
 
 ---
 
-# 🔍 Key Insights
+## 🔍 **Key Insights**
 
 The dashboard helps users identify meaningful patterns and insights
 from the election data, including:
@@ -301,7 +305,7 @@ from the election data, including:
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 **Project Workflow**
 
 ```text
 📥 Raw Election Data
@@ -322,27 +326,27 @@ from the election data, including:
 
 ---
 
-# 📸 Dashboard Preview
+## 📸 **Dashboard Preview**
 
-## 🏠 Home Dashboard
+## 🏠 **Home Dashboard**
 
 ![Home Dashboard](screenshots/home.png)
 
 ---
 
-## 🗺️ Geographic Analysis
+## 🗺️ **Geographic Analysis**
 
 ![Geographic Analysis](screenshots/geographic.png)
 
 ---
 
-## 🔄 Flip Story
+## 🔄 **Flip Story**
 
 ![Flip Story](screenshots/flip-story.png)
 
 ---
 
-## 📈 Winning Margin Analysis
+## 📈 **Winning Margin Analysis**
 
 ![Winning Margin Analysis](screenshots/margin.png)
 
@@ -350,7 +354,7 @@ from the election data, including:
 
 # 💡 Skills Demonstrated
 
-## 📊 Power BI Skills
+## 📊 **Power BI Skills**
 
 - **Power BI Desktop**
 - **Power Query**
@@ -384,7 +388,7 @@ from the election data, including:
 
 ---
 
-# 🎓 Learning Outcomes
+## 🎓 **Learning Outcomes**
 
 This project helped me strengthen my practical understanding of the
 complete **Power BI development lifecycle**.
@@ -420,7 +424,7 @@ The dashboard can be further enhanced by adding:
 
 ---
 
-# 📁 Repository Structure
+## 📁 **Repository Structure**
 
 ```text
 TamilNadu-Elections-2021-2026-PowerBI/
