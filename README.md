@@ -184,35 +184,8 @@ analysis and interactive filtering.
 - 🔹 Data Model Optimization
 - 🔹 Star Schema Concepts
 
-  ---
-
-### 📐 Simplified Data Model
-
-                ┌───────────────────────┐
-                │   DimConstituency     │
-                │                       │
-                │   Constituency        │
-                └───────────┬───────────┘
-                            │
-                            ▼
-                ┌───────────────────────┐
-                │     FactElection      │
-                │                       │
-                │ Candidate             │
-                │ Votes                 │
-                │ Constituency          │
-                └────────┬──────┬───────┘
-                         │      │
-               ┌─────────┘      └─────────┐
-               ▼                          ▼
-    ┌──────────────────┐       ┌──────────────────┐
-    │   Winner Table   │       │   Margin Table   │
-    │                  │       │                  │
-    │ Winner           │       │ Winning Margin   │
-    │ Votes            │       │ Constituency     │
-    └──────────────────┘       └──────────────────┘
----
-
+ ---
+ 
 # 🧮 **DAX & Measures**
 
 **DAX (Data Analysis Expressions)** was used to create calculated
