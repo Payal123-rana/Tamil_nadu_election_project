@@ -228,20 +228,11 @@ measures and KPIs for analyzing election data.
 Total Votes =
 SUM(FactElection[Votes])
 
-```
-#### Total Constituencies
-
-```DAX
 Total Constituencies =
 DISTINCTCOUNT(DimConstituency[Constituency])
 
-```
-
-```DAX
 Total Candidates =
 DISTINCTCOUNT(FactElection[Candidate])
-
-```
 
 ### 🎯 DAX Used For
 
