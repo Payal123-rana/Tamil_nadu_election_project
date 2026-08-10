@@ -475,17 +475,15 @@ data-driven approaches to solve analytical problems.
 
 ### 💻 **Technical Skills**
 
-```text
-Power BI
-SQL
-Python
-Excel
-DAX
-Power Query
-Data Modeling
-Data Visualization
-Data Analysis
-```
+- 📊 **Power BI**
+- 🗄️ **SQL**
+- 🐍 **Python**
+- 📗 **Excel**
+- 🧮 **DAX**
+- 🔄 **Power Query**
+- 🏗️ **Data Modeling**
+- 📈 **Data Visualization**
+- 🔍 **Data Analysis**
 
 ---
 
