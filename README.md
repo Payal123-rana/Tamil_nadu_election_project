@@ -493,23 +493,21 @@ Data Analysis
 
 This project demonstrates an end-to-end **Business Intelligence workflow**:
 
-```text
-📥 Data Collection
-        ↓
-🧹 Data Cleaning
-        ↓
-🔄 Data Transformation
-        ↓
-🏗️ Data Modeling
-        ↓
-🧮 DAX
-        ↓
-📊 Data Visualization
-        ↓
-🎨 Dashboard Development
-        ↓
-💡 Insights
-```
+📥 **Data Collection**  
+↓  
+🧹 **Data Cleaning**  
+↓  
+🔄 **Data Transformation**  
+↓  
+🏗️ **Data Modeling**  
+↓  
+🧮 **DAX Measures**  
+↓  
+📊 **Data Visualization**  
+↓  
+🎨 **Dashboard Development**  
+↓  
+💡 **Business Insights**
 
 ---
 
