@@ -436,12 +436,11 @@ TamilNadu-Elections-2021-2026-PowerBI/
 │
 ├── 📊 TamilNadu-Elections-2021-2026-PowerBI.pbix
 ├── 📄 README.md
-│
 └── 📁 screenshots/
     ├── 🖼️ home.png
-    ├── 🖼️ geographic.png
-    ├── 🖼️ flip-story.png
-    └── 🖼️ margin.png
+    ├── 🖼️ Geography story.png
+    ├── 🖼️ Flip story.png
+    └── 🖼️ Margin analysis .png
 ```
 
 ---
