@@ -216,8 +216,6 @@ analysis and interactive filtering.
         └──────────────────┘       └──────────────────┘
 
 
----
-
 # 🧮 **DAX & Measures**
 
 **DAX (Data Analysis Expressions)** was used to create calculated
@@ -312,29 +310,27 @@ from the election data, including:
 - 📊 **Differences in election performance across constituencies**
 
 ---
-
 # 🔄 **Project Workflow**
 
-```text
-📥 Raw Election Data
-        ↓
-🧹 Data Cleaning
-        ↓
-🔄 Power Query Transformation
-        ↓
-🏗️ Data Modeling
-        ↓
-🧮 DAX Measures
-        ↓
-🎨 Dashboard Design
-        ↓
-📊 Interactive Visualizations
-        ↓
-💡 Business Insights
-```
+The project follows an end-to-end data analytics workflow:
+
+1. 📥 **Raw Election Data**
+   ↓
+2. 🧹 **Data Cleaning**
+   ↓
+3. 🔄 **Power Query Transformation**
+   ↓
+4. 🏗️ **Data Modeling**
+   ↓
+5. 🧮 **DAX Measures**
+   ↓
+6. 🎨 **Dashboard Design**
+   ↓
+7. 📊 **Interactive Visualizations**
+   ↓
+8. 💡 **Business Insights**
 
 ---
-
 # 📸 **Dashboard Preview**
 
 ## 🏠 **Home Dashboard**
@@ -522,11 +518,11 @@ This project demonstrates an end-to-end **Business Intelligence workflow**:
 
 ### 🔗 LinkedIn
 
-👉 **Add your LinkedIn profile link here**
+👉 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/payal-rana-914001250/)
 
 ### 💻 GitHub
 
-👉 **Add your GitHub profile link here**
+👉 [**View my GitHub Profile**](https://github.com/Payal123-rana)
 
 ---
 
