@@ -215,28 +215,36 @@ analysis and interactive filtering.
 
         └──────────────────┘       └──────────────────┘
 
+
 ---
 
-# 🧮 DAX & Measures
+# 🧮 **DAX & Measures**
 
 **DAX (Data Analysis Expressions)** was used to create calculated
 measures and KPIs for analyzing election data.
 
-### 📌**Key DAX Calculations**
+### 📌 **Key DAX Calculations**
 
 #### Total Votes
 
 ```DAX
 Total Votes =
 SUM(FactElection[Votes])
+```
 
+#### Total Constituencies
+
+```DAX
 Total Constituencies =
 DISTINCTCOUNT(DimConstituency[Constituency])
+```
 
+#### Total Candidates
+
+```DAX
 Total Candidates =
 DISTINCTCOUNT(FactElection[Candidate])
-
----
+```
 
 ### 🎯 **DAX Used For**
 
@@ -289,7 +297,7 @@ of the election dataset.
 
 ---
 
-## 🔍 **Key Insights**
+# 🔍 **Key Insights**
 
 The dashboard helps users identify meaningful patterns and insights
 from the election data, including:
@@ -305,7 +313,7 @@ from the election data, including:
 
 ---
 
-## 🔄 **Project Workflow**
+# 🔄 **Project Workflow**
 
 ```text
 📥 Raw Election Data
@@ -323,10 +331,11 @@ from the election data, including:
 📊 Interactive Visualizations
         ↓
 💡 Business Insights
+```
 
 ---
 
-## 📸 **Dashboard Preview**
+# 📸 **Dashboard Preview**
 
 ## 🏠 **Home Dashboard**
 
@@ -352,7 +361,7 @@ from the election data, including:
 
 ---
 
-# 💡 Skills Demonstrated
+# 💡 **Skills Demonstrated**
 
 ## 📊 **Power BI Skills**
 
@@ -367,7 +376,7 @@ from the election data, including:
 - **Dashboard Design**
 - **Data Storytelling**
 
-## 📈 Data Analytics Skills
+## 📈 **Data Analytics Skills**
 
 - **Data Cleaning**
 - **Data Transformation**
@@ -377,7 +386,7 @@ from the election data, including:
 - **Pattern Identification**
 - **Business Intelligence**
 
-## 🧠 Analytical Skills
+## 🧠 **Analytical Skills**
 
 - **Problem Solving**
 - **Data Interpretation**
@@ -388,7 +397,7 @@ from the election data, including:
 
 ---
 
-## 🎓 **Learning Outcomes**
+# 🎓 **Learning Outcomes**
 
 This project helped me strengthen my practical understanding of the
 complete **Power BI development lifecycle**.
@@ -408,7 +417,7 @@ complete **Power BI development lifecycle**.
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 **Future Improvements**
 
 The dashboard can be further enhanced by adding:
 
@@ -424,7 +433,7 @@ The dashboard can be further enhanced by adding:
 
 ---
 
-## 📁 **Repository Structure**
+# 📁 **Repository Structure**
 
 ```text
 TamilNadu-Elections-2021-2026-PowerBI/
@@ -437,6 +446,107 @@ TamilNadu-Elections-2021-2026-PowerBI/
     ├── 🖼️ geographic.png
     ├── 🖼️ flip-story.png
     └── 🖼️ margin.png
+```
+
+---
+
+# 📌 **Project File**
+
+### 📊 TamilNadu-Elections-2021-2026-PowerBI.pbix
+
+The main Power BI report contains:
+
+- 📊 Interactive dashboards
+- 🧹 Data transformations
+- 🏗️ Data model
+- 🧮 DAX measures
+- 🎨 Data visualizations
+- 🎛️ Interactive filters
+- 📈 Election analysis
+
+---
+
+# 👩‍💻 **About Me**
+
+## **Payal Rana**
+
+### 🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+I am passionate about **Data Analytics and Business Intelligence** and
+interested in transforming raw data into meaningful insights.
+
+I enjoy working with data, building interactive dashboards and using
+data-driven approaches to solve analytical problems.
+
+### 💻 **Technical Skills**
+
+```text
+Power BI
+SQL
+Python
+Excel
+DAX
+Power Query
+Data Modeling
+Data Visualization
+Data Analysis
+```
+
+---
+
+# 📈 **Project Highlights**
+
+This project demonstrates an end-to-end **Business Intelligence workflow**:
+
+```text
+📥 Data Collection
+        ↓
+🧹 Data Cleaning
+        ↓
+🔄 Data Transformation
+        ↓
+🏗️ Data Modeling
+        ↓
+🧮 DAX
+        ↓
+📊 Data Visualization
+        ↓
+🎨 Dashboard Development
+        ↓
+💡 Insights
+```
+
+---
+
+# 📬 **Connect With Me**
+
+### 🔗 LinkedIn
+
+👉 **Add your LinkedIn profile link here**
+
+### 💻 GitHub
+
+👉 **Add your GitHub profile link here**
+
+---
+
+# ⭐ **Thank You**
+
+Thank you for visiting my **Tamil Nadu Elections 2021–2026 Power BI
+Dashboard** project.
+
+If you found this project useful or interesting, feel free to ⭐ the
+repository and connect with me on LinkedIn.
+
+---
+
+<p align="center">
+
+### 🚀 Turning Data Into Insights With Power BI
+
+**#PowerBI #DataAnalytics #DataAnalyst #DAX #PowerQuery #SQL #Python #Excel #BusinessIntelligence**
+
+</p>
 
 
 
