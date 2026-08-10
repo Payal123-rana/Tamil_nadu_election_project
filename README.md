@@ -297,30 +297,32 @@ The project follows an end-to-end data analytics workflow:
    ↓
 8. 💡 **Business Insights**
 
+
 ---
+
 # 📸 **Dashboard Preview**
 
 ## 🏠 **Home Dashboard**
 
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](Home.png)
 
 ---
 
 ## 🗺️ **Geographic Analysis**
 
-![Geographic Analysis](screenshots/geographic.png)
+![Geographic Analysis](Geography%20story.png)
 
 ---
 
 ## 🔄 **Flip Story**
 
-![Flip Story](screenshots/flip-story.png)
+![Flip Story](Flip%20story.png)
 
 ---
 
 ## 📈 **Winning Margin Analysis**
 
-![Winning Margin Analysis](screenshots/margin.png)
+![Winning Margin Analysis](Margin%20analysis.png)
 
 ---
 
