@@ -396,22 +396,6 @@ The dashboard can be further enhanced by adding:
 
 ---
 
-# 📁 **Repository Structure**
-
-```text
-TamilNadu-Elections-2021-2026-PowerBI/
-│
-├── 📊 TamilNadu-Elections-2021-2026-PowerBI.pbix
-├── 📄 README.md
-└── 📁 screenshots/
-    ├── 🖼️ home.png
-    ├── 🖼️ Geography story.png
-    ├── 🖼️ Flip story.png
-    └── 🖼️ Margin analysis .png
-```
-
----
-
 # 📌 **Project File**
 
 ### 📊 TamilNadu-Elections-2021-2026-PowerBI.pbix
