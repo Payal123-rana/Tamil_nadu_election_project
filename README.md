@@ -188,33 +188,33 @@ analysis and interactive filtering.
 
 ### 📐 Simplified Data Model
 
-```text
-                    ┌───────────────────────┐
-                    │   DimConstituency     │
-                    │                       │
-                    │   Constituency        │
-                    └───────────┬───────────┘
-                                │
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     FactElection      │
-                    │                       │
-                    │ Candidate             │
-                    │ Votes                 │
-                    │ Constituency          │
-                    └────────┬──────┬───────┘
-                             │      │
-                   ┌─────────┘      └─────────┐
-                   ▼                          ▼
-        ┌──────────────────┐       ┌──────────────────┐
-        │   Winner Table   │       │   Margin Table   │
-        │                  │       │                  │
-        │ Winner           │       │ Winning Margin   │
-        │ Votes            │       │ Constituency     │
+```
+                ┌───────────────────────┐
+                │   DimConstituency     │
+                │                       │
+                │   Constituency        │
+                └───────────┬───────────┘
+                            │
+                            ▼
+                ┌───────────────────────┐
+                │     FactElection      │
+                │                       │
+                │ Candidate             │
+                │ Votes                 │
+                │ Constituency          │
+                └────────┬──────┬───────┘
+                         │      │
+               ┌─────────┘      └─────────┐
+               ▼                          ▼
+    ┌──────────────────┐       ┌──────────────────┐
+    │   Winner Table   │       │   Margin Table   │
+    │                  │       │                  │
+    │ Winner           │       │ Winning Margin   │
+    │ Votes            │       │ Constituency     │
+    └──────────────────┘       └──────────────────┘
+```
 
-        └──────────────────┘       └──────────────────┘
-
+---
 
 # 🧮 **DAX & Measures**
 
