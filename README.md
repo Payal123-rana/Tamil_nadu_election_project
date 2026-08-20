@@ -500,6 +500,10 @@ repository and connect with me on LinkedIn.
 
 <img width="877" height="491" alt="Screenshot 2026-08-20 114018" src="https://github.com/user-attachments/assets/c0a871cf-da4c-49f8-9122-5c5f2c9bf5b7" />
 
+<img width="877" height="494" alt="Screenshot 2026-08-20 114115" src="https://github.com/user-attachments/assets/13a15472-71cb-4b02-9030-a51fb52e3eb7" />
+
+<img width="883" height="494" alt="Screenshot 2026-08-20 114136" src="https://github.com/user-attachments/assets/e52b5479-c474-4537-a8e9-f380f38151f7" />
+
 
 
 
